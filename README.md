@@ -7,6 +7,6 @@ This repository contains transfer learning technique code to enhance underwater 
 
 - Python 3.x
 - TensorFlow (>=2.0)
-- Pillow 
+- Pillow   
 ###Reference  
 https://github.com/entbappy/SRGAN-Super-Resolution-GAN.git
